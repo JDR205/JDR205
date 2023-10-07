@@ -4,7 +4,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
  
 - <b> Conducting A Security Audit- <b>
- <b>[  ](https://i.imgur.com/sc2w1ne.png)</b>
+- <b>  <img src"https://i.imgur.com/sc2w1ne.png 
+- <b>   <img src"https://i.imgur.com/ApIdLNp.png"/> <b>
 <h2> - Certifications </h2>
 - <b> https://coursera.org/share/d3b9d5547f80a32840eacd9c7f1dad24 </b> 
  
