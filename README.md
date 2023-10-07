@@ -1,16 +1,24 @@
-### Hi there 👋
-
+ 
+<h1>Hi, I'm Jonathan! I am driven and passionate about safeguarding people's security, including their financial well-being. I enjoy working with technology and analyzing and solving complex problems. My strengths include time management, alertness, awareness, adaptability, and I'm detail-oriented. </h1>
+ 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+ 
+- <b> Conducting A Security Audit- <b>
+ <b>  </b>
+<h2> - Certifications </h2>
+- <b> https://coursera.org/share/d3b9d5547f80a32840eacd9c7f1dad24 </b> 
+ 
+- <b> </b>
+ 
+ 
+ 
+<h2> 🤳 Connect with me:</h2>
+ 
+ 
+ 
+[linkedin]: 
+ 
 <!--
-**JDR205/JDR205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
