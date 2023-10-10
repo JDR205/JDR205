@@ -9,7 +9,7 @@
 
 - <b> [Foundations of CyberSecurity](https://coursera.org/share/d3b9d5547f80a32840eacd9c7f1dad24) </b>
  
-- <b> [Play It Safe: Manage Security Risks](https://coursera.org/share/c5eb25eae6f6cc09573420e485ebca4f) </b>
+- <b> [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/A3US7888SSN6) </b>
 
 - <b> []() </b>
 
