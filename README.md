@@ -5,13 +5,14 @@
  
 - <b> [Conducting A Security Audit](https://github.com/JDR205/SecurityAudit/blob/main/README.md) </b>
 
+
 <h2> 🧐 Certifications </h2>
 
 - <b> [Foundations of CyberSecurity](https://coursera.org/share/d3b9d5547f80a32840eacd9c7f1dad24) </b>
  
 - <b> [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/A3US7888SSN6) </b>
 
-- <b> []() </b>
+- <b> [Connect & Protect: Networks & Network Security](https://coursera.org/share/70878594932696283a63d8b763330bb0) </b>
 
 - <b> []() </b>
 
